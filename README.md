@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-#### 🚴‍♂️🏊‍♂️🏃‍♂️ Triathlete at Heart, Data Scientist by Profession
+#### 🚴‍♂️🏊‍♂️🏃‍♂️ Triathlete at Heart, Data Engineer by Profession
 
-Hello! I'm Willian, you can call me Will, I teach computers so you can say I'm a professor, but some people say this is data Science.
+Hello! I'm Willian, you can call me Will, I teach computers so you can say I'm a professor, but some people say this it is Data Science.
 
 I think that passion and success follow different paths if you don't discover how to use your passion to delivery value to society, so if you want to work with your passion discover a way to make it change someone else life.
 
-What excites me the most is the beauty of mathematics. I'm fascinated by mathematical problems and their applications in the real world. My approach is unique: I love transforming theoretical problems into mathematical models, and then bringing these models to life through coding. This method allows me to not only solve problems but also to create efficient, scalable solutions.
+What excites me the most is the beauty of mathematics. I'm fascinated by mathematical problems and their applications in the real world.
 
-I'm always eager to connect with fellow professionals and enthusiasts in the fields of data science, mathematics, and people with crazy projects in mind. Let's share ideas and challenges!
+
 ## Languages
 
 <div align=center>
