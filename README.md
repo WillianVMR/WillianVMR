@@ -32,7 +32,7 @@ Hello! I'm Willian, you can call me Will, I like to work with data, code, model 
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </div>
 
-## Cloud and hosting
+## Cloud and Infra
 
 <div align=center>
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
