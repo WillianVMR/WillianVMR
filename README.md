@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### 🚴‍♂️🏊‍♂️🏃‍♂️ Triathlete at Heart, Data Engineer by Profession
+#### 🚴‍♂️🏊‍♂️🏃‍♂️ Data Engineer
 
 Hello! I'm Willian, you can call me Will, I like to work with data, code, model things and also do endurance sports :)
 
