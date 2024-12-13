@@ -5,7 +5,7 @@
 Hello! I'm Willian, you can call me Will, I like to work with data, code, model things and also do endurance sports :)
 
 
-## Languages
+## Technologies
 
 <div align=center>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
